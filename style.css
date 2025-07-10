@@ -1,0 +1,4 @@
+.col, .col-6, .col-lg-4{
+    border: 1px solid pink;
+    padding: 10px;
+}
